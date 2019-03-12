@@ -1,6 +1,6 @@
 # Capstone_location_recommendations
 
-Two python files are used for capstone projects. 
+Two python files are used for this Capstone project. 
 
 monster_engineer_jobs_scraping.py is for online data scraping from Monster.com
 
